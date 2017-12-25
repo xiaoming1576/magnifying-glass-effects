@@ -1,0 +1,49 @@
+*{margin:0;padding:0;}
+.box{
+	width:420px;
+	height:420px;
+	background:#ff0066;
+	margin:100px;
+	position: relative;
+}
+.box .simg{
+	width:420px;
+	height:420px;
+
+}
+.box .move{
+	width:220px;
+	height:220px;
+	background: url('../images/T12pdtXaldXXXXXXXX-2-2.png');
+	position:absolute;
+	left:0px;
+	top:0px;
+	/*display:none;*/
+}
+.box .bimg{
+	width:420px;
+	height:420px;
+	background:red;
+	position:absolute;
+	left:450px;
+	top:0;
+	overflow:hidden;
+	/*display:none;*/
+}	
+.box .bimg .b-img{
+	width:800px;
+	height:800px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}
+
+
+
+			
+
+
+
+
+
+
